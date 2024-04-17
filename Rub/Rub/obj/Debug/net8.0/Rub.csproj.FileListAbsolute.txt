@@ -1,0 +1,14 @@
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\bin\Debug\net8.0\Rub.exe
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\bin\Debug\net8.0\Rub.deps.json
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\bin\Debug\net8.0\Rub.runtimeconfig.json
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\bin\Debug\net8.0\Rub.dll
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\bin\Debug\net8.0\Rub.pdb
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.dll
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\refint\Rub.dll
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.pdb
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.genruntimeconfig.cache
+C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\ref\Rub.dll
