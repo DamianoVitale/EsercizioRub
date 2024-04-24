@@ -7,4 +7,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DataLibrary\DataLibrary.csproj" />
+    <ProjectReference Include="..\FileHelper\IOHelper.csproj" />
+    <ProjectReference Include="..\Retriever\Retriever.csproj" />
+    <ProjectReference Include="..\Search\Search.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Rub.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

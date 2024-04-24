@@ -12,3 +12,29 @@ C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\r
 C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.pdb
 C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\Rub.genruntimeconfig.cache
 C:\Users\damia\OneDrive\Desktop\Gruppo Euris\Modulo 3\Rub\Rub\obj\Debug\net8.0\ref\Rub.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.exe
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.deps.json
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.runtimeconfig.json
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.AssemblyInfoInputs.cache
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.AssemblyInfo.cs
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.csproj.CoreCompileInputs.cache
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.sourcelink.json
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\refint\Rub.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.genruntimeconfig.cache
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\ref\Rub.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\DataLibrary.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\IOHelper.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Retriever.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\DataLibrary.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\IOHelper.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Retriever.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.csproj.AssemblyReference.cache
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\obj\Debug\net8.0\Rub.csproj.Up2Date
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Search.dll
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Search.pdb
+C:\Academy\2024\Studenti\Damiano\EsercizioRub\Rub\Rub\bin\Debug\net8.0\Rub.csv

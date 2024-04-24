@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ki7JJ+WKFS3PaWG3b78UpL9BwAMULsePFsOwuTUr7Ih8mHcFiVKACE3IFwaSHSjbpu5u8lLd9ygcU1zWwzwB1w==",
+  "dgSpecHash": "gdUkixAJKUOGcqwlzVC3LSz/L+nQgqhdWzEeGtr+nUypAOgZ6Dqh2XX8zZEZyPXRphcoNuwlRLiN1FEWAVpJtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\Rub.csproj",
+  "projectFilePath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\Rub.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

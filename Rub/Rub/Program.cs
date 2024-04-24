@@ -1,25 +1,27 @@
-﻿namespace Rub
+﻿using IOHelper;
+using Retriever;
+using Search;
+
+namespace Rub
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string path = "C:\\File\\Rub.csv";
-            string destinationPath = "C:\\File\\output.txt";
-            Context context = new Context(path);
-            FileWriter fileWriter = new FileWriter(destinationPath);
-            ConsoleWriter consoleWriter = new ConsoleWriter();
-            SearchNumber sn = new SearchNumber(context);
-            SearchEmail se = new SearchEmail(context);
-            SpecialSearch special = new SpecialSearch(context);
+            var path = "Rub.csv";
+            var destinationPath = "output.txt";
+            var context = new Context(path);
+            var fileWriter = new FileWriter(destinationPath,true);
+            var consoleWriter = new ConsoleWriter();
+            var sn = new SearchNumber(context);
+            var se = new SearchEmail(context);
+            var special = new SpecialSearch(context);
             context.SetList();
-            Handler hr = new Handler(context, fileWriter, consoleWriter, sn, se, special);
+            var hr = new Handler(context, fileWriter, consoleWriter, sn, se, special);
 
 
             hr.FilePrint(hr.SearchEmail("Piscitelli"), destinationPath);
             hr.ConsolePrint(hr.SearchNumber("Maggi"));
-            
-            
         }
     }
 }

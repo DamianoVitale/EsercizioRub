@@ -7,14 +7,71 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Rub/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0",
+          "IOHelper": "1.0.0",
+          "Retriever": "1.0.0",
+          "Search": "1.0.0"
+        },
         "runtime": {
           "Rub.dll": {}
+        }
+      },
+      "DataLibrary/1.0.0": {
+        "runtime": {
+          "DataLibrary.dll": {}
+        }
+      },
+      "IOHelper/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "IOHelper.dll": {}
+        }
+      },
+      "Retriever/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0",
+          "IOHelper": "1.0.0"
+        },
+        "runtime": {
+          "Retriever.dll": {}
+        }
+      },
+      "Search/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0",
+          "Retriever": "1.0.0"
+        },
+        "runtime": {
+          "Search.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Rub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Retriever/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Search/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

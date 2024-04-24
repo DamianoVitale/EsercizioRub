@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\Rub.csproj": {}
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\Rub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\Rub.csproj": {
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\Rub.csproj",
-        "projectName": "Rub",
-        "projectPath": "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\Rub.csproj",
-        "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damia\\OneDrive\\Desktop\\Gruppo Euris\\Modulo 3\\Rub\\Rub\\obj\\",
+        "projectUniqueName": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj",
+        "projectName": "DataLibrary",
+        "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\leonardig\\.nuget\\packages\\",
+        "outputPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leonardig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,282 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj",
+        "projectName": "IOHelper",
+        "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj",
+        "packagesPath": "C:\\Users\\leonardig\\.nuget\\packages\\",
+        "outputPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj",
+        "projectName": "Retriever",
+        "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj",
+        "packagesPath": "C:\\Users\\leonardig\\.nuget\\packages\\",
+        "outputPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj"
+              },
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\Rub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\Rub.csproj",
+        "projectName": "Rub",
+        "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\Rub.csproj",
+        "packagesPath": "C:\\Users\\leonardig\\.nuget\\packages\\",
+        "outputPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Rub\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj"
+              },
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\FileHelper\\IOHelper.csproj"
+              },
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj"
+              },
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\Search.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\Search.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\Search.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\Search.csproj",
+        "projectName": "Search",
+        "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\Search.csproj",
+        "packagesPath": "C:\\Users\\leonardig\\.nuget\\packages\\",
+        "outputPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Search\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leonardig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://artifactory.yoox.net/artifactory/api/nuget/ynap-virtual-nuget-library/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\DataLibrary\\DataLibrary.csproj"
+              },
+              "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj": {
+                "projectPath": "C:\\Academy\\2024\\Studenti\\Damiano\\EsercizioRub\\Rub\\Retriever\\Retriever.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
